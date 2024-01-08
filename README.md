@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-kaan-genç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-kaan-genç" height="30" width="40" /></a>
 <a href="https://kaggle.com/mehmetkaangenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehmetkaangenc" height="30" width="40" /></a>
+<a href="https://huggingface.co/Fryktlos" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="mehmetkaangenc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
