@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **deep learning**
 
-- 🌱 I’m currently learning **Tensor Flow**
+- 🌱 I’m currently learning **Deep Learning Model Developing**
 
 - 📫 How to reach me **mehmet2003kaan@outlook.com**
 
