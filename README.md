@@ -9,6 +9,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+[![My Medium story](@codescaptain&index=0)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@mehmetkatr&index=1&source=medium)](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
