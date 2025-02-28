@@ -1,17 +1,21 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Mehmet Kaan Genç</h1>
-<h3 align="center">An artificial intelligence enthusiast from Turkey</h3>
-
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetkatr&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkatr" /> </p>
 
 - 📫 How to reach me **mehmet2003kaan@outlook.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehmet-kaan-genç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-kaan-genç" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21419142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21419142" height="30" width="40" /></a>
 <a href="https://kaggle.com/mehmetkaangenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehmetkaangenc" height="30" width="40" /></a>
-<a href="https://huggingface.co/Fryktlos" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="mehmetkaangenc" height="30" width="40" /></a>
+<a href="https://medium.com/@mehmetkatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetkatr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mehmetkaangenc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehmetkaangenc1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -87,3 +91,6 @@
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetkatr&show_icons=true&locale=en&layout=compact" alt="mehmetkatr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetkatr&show_icons=true&locale=en" alt="mehmetkatr" /></p>
