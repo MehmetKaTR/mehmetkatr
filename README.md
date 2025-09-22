@@ -1,3 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<h1 align="center">Hi 👋, I'm Mehmet Kaan Genç</h1>
+<h3 align="center">A passionate software developer from Turkey</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Coding projects and tech experiments.<br><br>👯 I’m looking to collaborate on<br>Open-source software and interesting tech ideas.<br><br>🤝 I’m looking for help with<br>Learning new tools and best practices in software development.<br><br>🌱 I’m currently learning<br>Computer vision, full-stack development, and embedded systems.<br><br>💬 Reach me at<br>businessmehmetkaatr@gmail.com<br><br>⚡ Fun fact<br>I also produce house music in my free time.
 
