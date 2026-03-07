@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Coding projects and tech experiments.<br><br>👯 I’m looking to collaborate on<br>Open-source software and interesting tech ideas.<br><br>🤝 I’m looking for help with<br>Learning new tools and best practices in software development.<br><br>🌱 I’m currently learning<br>Computer vision, full-stack development, and embedded systems.<br><br>💬 Reach me at<br>businessmehmetkaatr@gmail.com<br><br>⚡ Fun fact<br>I also produce house music in my free time.
+🔭 I’m currently working on<br>Coding projects and tech experiments.<br><br>👯 I’m looking to collaborate on<br>Open-source software and interesting tech ideas.<br><br>🤝 I’m looking for help with<br>Learning new tools and best practices in software development.<br><br>🌱 I’m currently learning<br>Computer vision, full-stack development, and embedded systems.<br><br>💬 Reach me at<br>businessmehmetkatr@gmail.com<br><br>⚡ Fun fact<br>I also produce house music in my free time.
 
 
 ## 🌐 Socials:
