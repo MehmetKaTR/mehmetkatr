@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-kaan-gen%C3%A7/) 
-[![Website](https://img.shields.io/badge/Website-%23FFD700?style=for-the-badge&logo=googlesite&logoColor=black)](https://mehmetkatr.site/)
+[![Website](https://img.shields.io/badge/Website-%23FFD700?style=for-the-badge&logo=googlesite&logoColor=black)](https://mehmetkaangenc.com/)
 
 
 # 💻 Tech Stack:
