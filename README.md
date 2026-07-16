@@ -1,31 +1,58 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Hi 👋, I'm Mehmet Kaan Genç</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetkatr&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkatr" /> </p>
+# Mehmet Kaan Genç
 
+**Mobile, AI & industrial software.** I build end‑to‑end products — from Spring Boot backends and React Native apps to computer‑vision and autonomous‑driving systems.
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Coding projects and tech experiments.<br><br>👯 I’m looking to collaborate on<br>Open-source software and interesting tech ideas.<br><br>🤝 I’m looking for help with<br>Learning new tools and best practices in software development.<br><br>🌱 I’m currently learning<br>Computer vision, full-stack development, and embedded systems.<br><br>💬 Reach me at<br>businessmehmetkatr@gmail.com<br><br>⚡ Fun fact<br>I also produce house music in my free time.
+`Istanbul / Bursa, Turkey`
 
+[Website ↗](https://www.mehmetkaangenc.com/) · [LinkedIn ↗](https://www.linkedin.com/in/mehmet-kaan-gen%C3%A7/) · [TaleMind ↗](https://www.talemindai.com/) · businessmehmetkatr@gmail.com
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-kaan-gen%C3%A7/) 
-[![Website](https://img.shields.io/badge/Website-%23FFD700?style=for-the-badge&logo=googlesite&logoColor=black)](https://mehmetkaangenc.com/)
+<br>
 
+### 01 / About
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehmetkatr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mehmetkatr&theme=dark&hide_border=false)<br/>
+Software developer focused on shipping real products. I work across the stack — designing REST APIs, building cross‑platform mobile apps, and applying computer vision to industrial and autonomous‑driving problems. Currently building and growing **TaleMind**, an AI language‑learning platform.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehmetkatr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 02 / Featured Work
 
----
-[![](https://visitcount.itsvg.in/api?id=mehmetkatr&icon=0&color=0)](https://visitcount.itsvg.in)
+**TaleMind** — AI language‑learning platform · [live ↗](https://www.talemindai.com/)
+Learn vocabulary in context by turning your own words into AI‑generated stories. Full‑stack: Spring Boot + Gemini backend, React Native / Expo mobile app, JWT auth, MySQL + MongoDB. In Google Play closed beta.
+→ [Backend](https://github.com/MehmetKaTR/project-easy-translate) · [Mobile app](https://github.com/MehmetKaTR/translate_easy)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Project Colyze** — Vision‑based part inspection
+Web app that measures and grades manufactured parts (shape, color, dimensions → OK / NOK) using OpenCV. React frontend + Flask REST API.
+→ [Repository](https://github.com/MehmetKaTR/project_colyze)
+
+**AutonomousVehicleVision** — Self‑driving perception
+Real‑time lane following, traffic‑sign recognition, pedestrian detection and distance estimation with YOLOPv2, simulated in ROS2 + Gazebo.
+→ [Repository](https://github.com/MehmetKaTR/AutonomousVehicleVision)
+
+**Smart Clinic Management** — Healthcare backend
+Spring MVC + Thymeleaf dashboards and REST APIs over MySQL and MongoDB.
+→ [Repository](https://github.com/MehmetKaTR/smart-clinic-management-system)
+
+<br>
+
+### 03 / Stack
+
+```
+Languages     Java · Python · TypeScript · JavaScript · C# · Dart
+Backend       Spring Boot · Flask · Node.js · REST · JWT
+Mobile        React Native · Expo · Flutter
+ML & CV       PyTorch · TensorFlow · OpenCV · YOLO · scikit-learn
+Data          MySQL · MongoDB · PostgreSQL · SQLite
+Robotics      ROS2 · Gazebo · Raspberry Pi
+DevOps        Docker · Git · Nginx · Railway
+```
+
+<br>
+
+### 04 / Stats
+
+![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkatr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite&hide_title=true&bg_color=00000000)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkatr&layout=compact&hide_border=true&theme=graywhite&bg_color=00000000)
+
+<br>
+
+<sub>Let's build something together → [mehmetkaangenc.com](https://www.mehmetkaangenc.com/)</sub>
