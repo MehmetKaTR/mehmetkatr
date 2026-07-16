@@ -124,11 +124,12 @@ Healthcare backend — MVC dashboards + REST APIs over dual databases.
 ### 04 / GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehmetkatr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&hide_title=true&card_width=480" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetkatr&theme=transparent" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkatr&hide_border=true&theme=transparent" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkatr&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehmetkatr&theme=transparent" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmetkatr&theme=transparent" />
 </p>
 
 <p align="center"><sub>Let's build something together → <a href="https://www.mehmetkaangenc.com/">mehmetkaangenc.com</a></sub></p>
