@@ -27,51 +27,10 @@ I build real products end‑to‑end — designing REST APIs, shipping cross‑p
 
 ---
 
-### 02 / Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 TaleMind** &nbsp;·&nbsp; [live ↗](https://www.talemindai.com/)
-
-AI language‑learning platform. Turn your own words into AI‑generated stories to learn vocabulary in context.
-
-`Spring Boot` `Gemini` `React Native` `JWT` `MySQL` `MongoDB`
-
-[Backend](https://github.com/MehmetKaTR/project-easy-translate) · [Mobile app](https://github.com/MehmetKaTR/translate_easy)
-
-</td>
-<td width="50%" valign="top">
-
-**🔍 Project Colyze**
-
-Vision‑based part inspection — measures & grades parts (shape, color, size → OK/NOK) with OpenCV.
-
-`React` `Flask` `OpenCV` `Python`
-
-[Repository](https://github.com/MehmetKaTR/project_colyze)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🚗 AutonomousVehicleVision**
-
-Self‑driving perception — lane following, sign recognition, pedestrian detection & distance estimation.
-
-`ROS2` `Gazebo` `YOLOPv2` `Python`
-
-[Repository](https://github.com/MehmetKaTR/AutonomousVehicleVision)
-
-</td>
-<td width="50%" valign="top">
+## Featured Work
 
 ### 💳 FinanceHub — Enterprise Microservices Finance Platform
-
-A personal-finance & open-banking platform built as a distributed microservices system,
-demonstrating production-grade architecture end-to-end.
+A personal-finance & open-banking platform built as a distributed microservices system, demonstrating production-grade architecture end-to-end.
 
 ![Java](https://img.shields.io/badge/Java_21-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?logo=springboot&logoColor=white)
@@ -87,9 +46,55 @@ demonstrating production-grade architecture end-to-end.
 
 🔗 [**View Repository →**](https://github.com/MehmetKaTR/project_financehub)
 
-</td>
-</tr>
-</table>
+---
+
+### 🧠 TaleMind — AI Language-Learning Platform
+Turn your own words into AI-generated stories to learn vocabulary in context.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?logo=googlegemini&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+- **AI-generated stories** from a learner's own vocabulary via the Gemini API for contextual learning
+- **Spring Boot** REST backend with **JWT** authentication and polyglot persistence (**MySQL + MongoDB**)
+- Cross-platform **React Native** mobile app for an on-the-go learning experience
+
+🔗 [**Backend →**](https://github.com/MehmetKaTR/project-easy-translate) · [**Mobile App →**](https://github.com/MehmetKaTR/translate_easy)
+
+---
+
+### 🔍 Project Colyze — Vision-Based Part Inspection
+Measures & grades industrial parts (shape, color, size → OK / NOK) with computer vision.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+- **OpenCV pipeline** that measures dimensions, colour and shape and grades each part OK/NOK
+- **Flask** API serving the vision pipeline to a **React** operator dashboard
+- Real-world **industrial quality-control** use case
+
+🔗 [**View Repository →**](https://github.com/MehmetKaTR/project_colyze)
+
+---
+
+### 🚗 AutonomousVehicleVision — Self-Driving Perception
+Lane following, sign recognition, pedestrian detection & distance estimation.
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?logo=gazebo&logoColor=white)
+![YOLOPv2](https://img.shields.io/badge/YOLOPv2-00FFFF?logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+- **Perception stack**: lane following, traffic-sign recognition, pedestrian detection & distance estimation
+- **YOLOPv2** for real-time detection, simulated and validated in **ROS2 + Gazebo**
+- End-to-end autonomous-driving vision experiment
+
+🔗 [**View Repository →**](https://github.com/MehmetKaTR/AutonomousVehicleVision)
 
 ---
 
