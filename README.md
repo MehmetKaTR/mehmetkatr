@@ -44,6 +44,17 @@ AI language‑learning platform. Turn your own words into AI‑generated stories
 </td>
 <td width="50%" valign="top">
 
+**💳 FinanceHub**
+
+Enterprise microservices finance platform — SAGA, Kafka, Keycloak, full observability & CI/CD.
+
+`Java` `Spring Boot` `Microservices` `Kafka` `Keycloak` `Docker`
+
+[Repository](https://github.com/MehmetKaTR/project_financehub)
+
+</td>
+<td width="50%" valign="top">
+
 **🔍 Project Colyze**
 
 Vision‑based part inspection — measures & grades parts (shape, color, size → OK/NOK) with OpenCV.
@@ -64,17 +75,6 @@ Self‑driving perception — lane following, sign recognition, pedestrian detec
 `ROS2` `Gazebo` `YOLOPv2` `Python`
 
 [Repository](https://github.com/MehmetKaTR/AutonomousVehicleVision)
-
-</td>
-<td width="50%" valign="top">
-
-**💳 FinanceHub**
-
-Enterprise microservices finance platform — SAGA, Kafka, Keycloak, full observability & CI/CD.
-
-`Java` `Spring Boot` `Microservices` `Kafka` `Keycloak` `Docker`
-
-[Repository](https://github.com/MehmetKaTR/project_financehub)
 
 </td>
 </tr>
