@@ -53,17 +53,6 @@ Enterprise microservices finance platform — SAGA, Kafka, Keycloak, full observ
 [Repository](https://github.com/MehmetKaTR/project_financehub)
 
 </td>
-<td width="50%" valign="top">
-
-**🔍 Project Colyze**
-
-Vision‑based part inspection — measures & grades parts (shape, color, size → OK/NOK) with OpenCV.
-
-`React` `Flask` `OpenCV` `Python`
-
-[Repository](https://github.com/MehmetKaTR/project_colyze)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -75,6 +64,17 @@ Self‑driving perception — lane following, sign recognition, pedestrian detec
 `ROS2` `Gazebo` `YOLOPv2` `Python`
 
 [Repository](https://github.com/MehmetKaTR/AutonomousVehicleVision)
+
+</td>
+<td width="50%" valign="top">
+
+**🔍 Project Colyze**
+
+Vision‑based part inspection — measures & grades parts (shape, color, size → OK/NOK) with OpenCV.
+
+`React` `Flask` `OpenCV` `Python`
+
+[Repository](https://github.com/MehmetKaTR/project_colyze)
 
 </td>
 </tr>
