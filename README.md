@@ -68,13 +68,24 @@ Self‑driving perception — lane following, sign recognition, pedestrian detec
 </td>
 <td width="50%" valign="top">
 
-**🏥 Smart Clinic Management**
+### 💳 FinanceHub — Enterprise Microservices Finance Platform
 
-Healthcare backend — MVC dashboards + REST APIs over dual databases.
+A personal-finance & open-banking platform built as a distributed microservices system,
+demonstrating production-grade architecture end-to-end.
 
-`Spring MVC` `Thymeleaf` `MySQL` `MongoDB`
+![Java](https://img.shields.io/badge/Java_21-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-[Repository](https://github.com/MehmetKaTR/smart-clinic-management-system)
+- **Distributed transactions** with the SAGA pattern + compensation, and Resilience4j circuit breaking
+- **CQRS + Outbox**, event-driven communication over Kafka, service discovery & API Gateway
+- **Full observability** (Prometheus/Grafana + OpenSearch/ELK) and **centralized security** (Keycloak OAuth2/OIDC, Vault secrets)
+- **CI/CD** with GitHub Actions and a passing **SonarCloud** quality gate (0 issues, all ratings A)
+
+🔗 [**View Repository →**](https://github.com/MehmetKaTR/project_financehub)
 
 </td>
 </tr>
