@@ -27,74 +27,67 @@ I build real products end‑to‑end — designing REST APIs, shipping cross‑p
 
 ---
 
-## Featured Work
+## 02 / Featured Work
 
-### 💳 FinanceHub — Enterprise Microservices Finance Platform
-A personal-finance & open-banking platform built as a distributed microservices system, demonstrating production-grade architecture end-to-end.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Java](https://img.shields.io/badge/Java_21-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+**🧠 TaleMind**
 
-- **Distributed transactions** with the SAGA pattern + compensation, and Resilience4j circuit breaking
-- **CQRS + Outbox**, event-driven communication over Kafka, service discovery & API Gateway
-- **Full observability** (Prometheus/Grafana + OpenSearch/ELK) and **centralized security** (Keycloak OAuth2/OIDC, Vault secrets)
-- **CI/CD** with GitHub Actions and a passing **SonarCloud** quality gate (0 issues, all ratings A)
-
-🔗 [**View Repository →**](https://github.com/MehmetKaTR/project_financehub)
-
----
-
-### 🧠 TaleMind — AI Language-Learning Platform
-Turn your own words into AI-generated stories to learn vocabulary in context.
+AI language-learning app — turns your words into Gemini-generated stories to learn in context.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- **AI-generated stories** from a learner's own vocabulary via the Gemini API for contextual learning
-- **Spring Boot** REST backend with **JWT** authentication and polyglot persistence (**MySQL + MongoDB**)
-- Cross-platform **React Native** mobile app for an on-the-go learning experience
+🔗 [Backend →](https://github.com/MehmetKaTR/project-easy-translate) · [App →](https://github.com/MehmetKaTR/translate_easy)
 
-🔗 [**Backend →**](https://github.com/MehmetKaTR/project-easy-translate) · [**Mobile App →**](https://github.com/MehmetKaTR/translate_easy)
+</td>
+<td width="50%" valign="top">
 
----
+**💳 FinanceHub**
 
-### 🔍 Project Colyze — Vision-Based Part Inspection
-Measures & grades industrial parts (shape, color, size → OK / NOK) with computer vision.
+Enterprise microservices finance platform — SAGA, Kafka, Keycloak, observability & CI/CD.
+
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+🔗 [Repository →](https://github.com/MehmetKaTR/project_financehub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Project Colyze**
+
+Vision-based part inspection — grades parts (shape, color, size → OK/NOK) with OpenCV.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-- **OpenCV pipeline** that measures dimensions, colour and shape and grades each part OK/NOK
-- **Flask** API serving the vision pipeline to a **React** operator dashboard
-- Real-world **industrial quality-control** use case
+🔗 [Repository →](https://github.com/MehmetKaTR/project_colyze)
 
-🔗 [**View Repository →**](https://github.com/MehmetKaTR/project_colyze)
+</td>
+<td width="50%" valign="top">
 
----
+**🚗 AutonomousVehicleVision**
 
-### 🚗 AutonomousVehicleVision — Self-Driving Perception
-Lane following, sign recognition, pedestrian detection & distance estimation.
+Self-driving perception — lane following, sign recognition & pedestrian detection.
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?logo=gazebo&logoColor=white)
-![YOLOPv2](https://img.shields.io/badge/YOLOPv2-00FFFF?logoColor=black)
+![YOLOPv2](https://img.shields.io/badge/YOLOPv2-00B3B3?logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-- **Perception stack**: lane following, traffic-sign recognition, pedestrian detection & distance estimation
-- **YOLOPv2** for real-time detection, simulated and validated in **ROS2 + Gazebo**
-- End-to-end autonomous-driving vision experiment
+🔗 [Repository →](https://github.com/MehmetKaTR/AutonomousVehicleVision)
 
-🔗 [**View Repository →**](https://github.com/MehmetKaTR/AutonomousVehicleVision)
+</td>
+</tr>
+</table>
 
 ---
 
