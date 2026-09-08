@@ -27,63 +27,54 @@ I build real products end‑to‑end — designing REST APIs, shipping cross‑p
 
 ---
 
-## 02 / Featured Work
+### 02 / Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 TaleMind**
+**🧠 TaleMind** &nbsp;·&nbsp; [live ↗](https://www.talemindai.com/)
 
-AI language-learning app — turns your words into Gemini-generated stories to learn in context.
+AI language‑learning platform. Turn your own words into AI‑generated stories to learn vocabulary in context.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+`Spring Boot` `Gemini` `React Native` `JWT` `MySQL` `MongoDB`
 
-🔗 [Backend →](https://github.com/MehmetKaTR/project-easy-translate) · [App →](https://github.com/MehmetKaTR/translate_easy)
+[Backend](https://github.com/MehmetKaTR/project-easy-translate) · [Mobile app](https://github.com/MehmetKaTR/translate_easy)
 
 </td>
 <td width="50%" valign="top">
 
-**💳 FinanceHub**
+**🔍 Project Colyze**
 
-Enterprise microservices finance platform — SAGA, Kafka, Keycloak, observability & CI/CD.
+Vision‑based part inspection — measures & grades parts (shape, color, size → OK/NOK) with OpenCV.
 
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+`React` `Flask` `OpenCV` `Python`
 
-🔗 [Repository →](https://github.com/MehmetKaTR/project_financehub)
+[Repository](https://github.com/MehmetKaTR/project_colyze)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔍 Project Colyze**
+**🚗 AutonomousVehicleVision**
 
-Vision-based part inspection — grades parts (shape, color, size → OK/NOK) with OpenCV.
+Self‑driving perception — lane following, sign recognition, pedestrian detection & distance estimation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+`ROS2` `Gazebo` `YOLOPv2` `Python`
 
-🔗 [Repository →](https://github.com/MehmetKaTR/project_colyze)
+[Repository](https://github.com/MehmetKaTR/AutonomousVehicleVision)
 
 </td>
 <td width="50%" valign="top">
 
-**🚗 AutonomousVehicleVision**
+**💳 FinanceHub**
 
-Self-driving perception — lane following, sign recognition & pedestrian detection.
+Enterprise microservices finance platform — SAGA, Kafka, Keycloak, full observability & CI/CD.
 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-![YOLOPv2](https://img.shields.io/badge/YOLOPv2-00B3B3?logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+`Java` `Spring Boot` `Microservices` `Kafka` `Keycloak` `Docker`
 
-🔗 [Repository →](https://github.com/MehmetKaTR/AutonomousVehicleVision)
+[Repository](https://github.com/MehmetKaTR/project_financehub)
 
 </td>
 </tr>
